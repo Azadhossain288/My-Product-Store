@@ -17,7 +17,7 @@ const Navbar = ({ cartCount }) => {
           <li className="hover:text-violet-600 cursor-pointer transition">Features</li>
           <li className="hover:text-violet-600 cursor-pointer transition">Pricing</li>
           <li className="hover:text-violet-600 cursor-pointer transition">Testimonials</li>
-          <li className="hover:text-violet-600 cursor-pointer transition">Testimonials</li>
+          
 
         </ul>
 

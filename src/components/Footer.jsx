@@ -6,8 +6,8 @@ const Footer = () => {
         {/* Brand */}
         <div className="md:col-span-1">
           <div className="flex items-center gap-2 mb-3">
-            <span className="text-2xl">🛍️</span>
-            <span className="font-extrabold text-white text-lg">MyProductStore</span>
+            
+            <span className="font-extrabold text-white text-lg">DigiTools</span>
           </div>
           <p className="text-sm leading-relaxed">
             Premium digital tools for creators, professionals, and businesses. Work smarter with our suite of powerful tools.
