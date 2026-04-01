@@ -1,16 +1,13 @@
-# React + Vite
+Project name: My Product Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description: This is a sleek, high-performance Product Showcase and Cart Management application built with React. The project allows users to browse through a dynamic list of products, view detailed features, and manage their shopping cart with real-time updates. It features a seamless toggling mechanism between the product gallery and the cart, ensuring a smooth user experience inspired by modern Figma designs.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technology used:
+    1.React.js (Frontend Library)
+    2.Tailwind CSS (Utility-first CSS framework)
+    3.DaisyUI (Component library for Tailwind)
+    4.React-Toastify (For interactive push notifications)
+    5.Lucide React / HeroIcons (For sleek iconography)
+    6.Vite (Fast build tool for development)
+   
