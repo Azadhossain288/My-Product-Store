@@ -7,6 +7,13 @@ const Banner = () => {
 
         {/* Text Content */}
         <div className="flex-1 text-center md:text-left">
+
+          {/* Badge */}
+          <div className="inline-flex items-center gap-2 bg-white/20 border border-white/30 text-white text-sm font-medium px-4 py-1.5 rounded-full mb-6">
+            <span className="w-2 h-2 bg-yellow-300 rounded-full animate-pulse"></span>
+            New: AI-Powered Tools Available
+          </div>
+          
           <h1 className="text-4xl md:text-5xl font-extrabold leading-tight mb-4">
             Supercharge Your <br />
             <span className="text-yellow-300">Digital Workflow</span>
@@ -23,6 +30,8 @@ const Banner = () => {
             </button>
           </div>
         </div>
+
+
 
         {/* Image / Icon */}
         <div className="flex-1 flex justify-center">
