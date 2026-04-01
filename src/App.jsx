@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
+import Banner from './components/Banner'
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
 
       
      <Navbar />
+     <Banner />
        
     </div>
     
